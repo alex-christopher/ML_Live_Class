@@ -1,0 +1,6 @@
+matplot
+numpy 
+pandas
+seaborn
+joblib
+notebook
